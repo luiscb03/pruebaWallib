@@ -13,7 +13,7 @@ public class Circulo implements Forma{
 
     @Override
     public String dibujar() {
-        return "Dibujando un circulo...";
+        return "Dibujando un circulo...!";
     }
     
 }
